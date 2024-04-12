@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MysteryPenguin</h1>
-- 🔭 I’m currently working on [Neon](https://github.com/MysteryPenguin/Neon)
+- 🔭 I’m currently working on ![Neon](https://github.com/MysteryPenguin/Neon)
 
 - 🌱 I’m currently learning **Nextjs, Rust**
 
