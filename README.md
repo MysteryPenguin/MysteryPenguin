@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Rust**
 
-- 💬 Ask me about **Nextjs, Rust, React, Python**
+- 💬 Ask me about **Nextjs, Rust, React, Python, Html, CSS, JS/TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
