@@ -33,6 +33,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MysteryPenguin&theme=blueberry" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MysteryPenguin&theme=blueberry" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MysteryPenguin&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MysteryPenguin&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MysteryPenguin&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MysteryPenguin&theme=blueberry" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MysteryPenguin&blueberry" height="180em" />
 </div>
