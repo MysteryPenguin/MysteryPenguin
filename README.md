@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MysteryPenguin&theme=default" alt="MysteryPenguin" /></a> </p>
 
-- 🔭 I’m currently working on [—](—)
+- 🔭 I’m currently working on ---
 - 🌱 I’m currently learning **Rust, Nextjs**
 - 💬 Ask me about **Rust, Python, Nextjs, JS/TS**
 
